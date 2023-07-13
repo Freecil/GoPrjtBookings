@@ -14,6 +14,10 @@ This is a repository for the Go course project called bookings and reservations 
 
 -Uses [PGX v5 jackc](www.github.com/jackc/pgx) 
 
+-Uses Admin template 
+
+-Go validator
+
 To run the program be in top folder and use 
 go run ./cmd/web 
 To run test go 

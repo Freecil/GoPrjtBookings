@@ -12,7 +12,7 @@ This is a repository for the Go course project called bookings and reservations 
 
 -Uses [Go Simple Mail v2.14.0](github.com/xhit/go-simple-mail/v2) 
 
--Uses [PGX v5 jackc](github.com/jackc/pgx) 
+-Uses [PGX v5 jackc](www.github.com/jackc/pgx) 
 
 To run the program be in top folder and use 
 go run ./cmd/web 
